@@ -1,0 +1,19 @@
+{
+  "name": "hellobackend",
+  "version": "1.0.0",
+  "description": "basic code of node js to deploy ...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node firstnode.js"
+  },
+  "keywords": [
+    "node",
+    "code"
+  ],
+  "author": "pankaj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
